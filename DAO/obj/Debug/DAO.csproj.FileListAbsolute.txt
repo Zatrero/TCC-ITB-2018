@@ -1,0 +1,6 @@
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\bin\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\bin\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\obj\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\obj\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache

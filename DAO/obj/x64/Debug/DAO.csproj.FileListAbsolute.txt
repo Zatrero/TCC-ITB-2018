@@ -1,0 +1,10 @@
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\bin\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\bin\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\obj\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\obj\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\DAO\bin\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\DAO\bin\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\DAO\obj\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\DAO\obj\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\DAO\obj\x64\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\DAO\obj\x64\Debug\DAO.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\Debug\BLL.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\obj\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\obj\Debug\BLL.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\Debug\DAO.pdb

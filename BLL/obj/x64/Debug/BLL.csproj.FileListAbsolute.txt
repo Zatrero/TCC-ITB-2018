@@ -1,0 +1,14 @@
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\x64\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\x64\Debug\BLL.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\obj\x64\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\obj\x64\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\obj\x64\Debug\BLL.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\BLL\bin\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\BLL\bin\x64\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\BLL\bin\x64\Debug\BLL.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\BLL\bin\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\BLL\bin\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\BLL\obj\x64\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\BLL\obj\x64\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\BLL\obj\x64\Debug\BLL.pdb
