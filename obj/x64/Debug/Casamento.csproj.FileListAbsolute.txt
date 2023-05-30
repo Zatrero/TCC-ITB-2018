@@ -1,0 +1,53 @@
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.csprojResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.CadCli.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.CadFuncio.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Compra.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Menu.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.CadProd.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Properties.Resources.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Venda.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.csproj.GenerateResource.Cache
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\bin\x64\Debug\Casamento.exe
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\bin\x64\Debug\Casamento.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\bin\x64\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\bin\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\bin\x64\Debug\BLL.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\bin\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.AtualizarSenha.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.CadForn.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.CriarLogin.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Login.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\RdlCompile.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\RdlCompile.compiled
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.exe
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.exe
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.csprojResolveAssemblyReference.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.AtualizarSenha.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.CadCli.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.CadForn.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.CadFuncio.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.Compra.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.CriarLogin.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.Login.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.Menu.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.CadProd.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.Properties.Resources.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.Venda.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\Casamento.csproj.GenerateResource.Cache
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\RdlCompile.cache
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\obj\x64\Debug\RdlCompile.compiled
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\bin\x64\Debug\Casamento.exe
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\bin\x64\Debug\Casamento.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\bin\x64\Debug\BLL.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\bin\x64\Debug\DAO.dll
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\bin\x64\Debug\BLL.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Backup security\Casamento\bin\x64\Debug\DAO.pdb
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.MostrarClientes.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.MostrarFuncionario.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Mostrar_Catalogo.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Forma_de_Pagamento.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.Pagar.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.ControledeEstoque.resources
+C:\Users\Shadow\Documents\Projetos\TCC\Casamento\Casamento\obj\x64\Debug\Casamento.MostarEstoque.resources
